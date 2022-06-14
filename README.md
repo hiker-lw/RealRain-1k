@@ -4,7 +4,7 @@
 <a href="http://arxiv.org/abs/2206.05514"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
 
 <h4 align="center">This is the official repository for RealRain-1k. The datasets will be released soon!</a>.</h4>
-<h5 align="center">Wei Li, Qiming Zhang, Jing Zhang, Zhen Huang, Xinmei Tian, Dacheng Tao</em></h5>
+<h5 align="center">Wei Li<sup>*</sup>, Qiming Zhang<sup>*</sup>, Jing Zhang, Zhen Huang, Xinmei Tian, Dacheng Tao</em></h5>
 
 <p align="center">
   <a href="#introduction">Introduction</a> |
