@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#introduction">Introduction</a> |
   <a href="#datasets">Datasets</a> |
-  <a href="#results">Results</a> |
+  <a href="#results">Results</a>
 </p>
 
 ## Introduction
