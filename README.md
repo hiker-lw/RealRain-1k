@@ -22,6 +22,18 @@ A glance at other real rainy datasets and RealRain-1k. **RealRain-1k and SyRain-
 <img src="images/figure1.png">
 <img src="images/figure2.png">
 
-# Results
+## Results
 Benchmark results of supervised learning track
 ![SL](https://github.com/hiker-lw/RealRain-1k/blob/main/images/SL_results.png)
+
+## Statement
+
+If you are interested in our work, please consider citing the following:
+```
+@article{li2022toward,
+  title={Toward Real-world Single Image Deraining: A New Benchmark and Beyond},
+  author={Li, Wei and Zhang, Qiming and Zhang, Jing and Huang, Zhen and Tian, Xinmei and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2206.05514},
+  year={2022}
+}
+```
