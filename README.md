@@ -23,8 +23,14 @@ A glance at other real rainy datasets and RealRain-1k. **RealRain-1k and SyRain-
 <img src="images/figure2.png">
 
 ## Results
-Benchmark results of supervised learning track
+* Benchmark results of supervised learning track
 ![SL](https://github.com/hiker-lw/RealRain-1k/blob/main/images/SL_results.png)
+
+* Some visual results of syn2real domain generalization track
+![syn2real_DG](images/syn2real_DG.png)
+
+* Some visual results of real2real domain generalization track
+![real2real_DG](images/real2real_DG.png)
 
 ## Statement
 
